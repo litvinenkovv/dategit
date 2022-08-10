@@ -1,6 +1,6 @@
 {
   "name": "dategit",
   "version": "0.0.1",
-  "main": "./dategit.js",
+  "main": "./dategit.ts",
   "dependencies": {}
 }
