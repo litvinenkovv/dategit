@@ -1,0 +1,1 @@
+export declare function dategit(): string;
